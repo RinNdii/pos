@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 360" role="img" aria-labelledby="title desc">
+  <title id="title">QRIS Demo</title>
+  <desc id="desc">Kode QR simulasi untuk demo pembayaran POS</desc>
+  <rect width="320" height="360" rx="16" fill="#fff"/>
+  <text x="160" y="30" fill="#223047" font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle">QRIS DEMO</text>
+  <g fill="#111">
+    <rect x="30" y="55" width="70" height="70"/><rect x="42" y="67" width="46" height="46" fill="#fff"/><rect x="54" y="79" width="22" height="22"/>
+    <rect x="220" y="55" width="70" height="70"/><rect x="232" y="67" width="46" height="46" fill="#fff"/><rect x="244" y="79" width="22" height="22"/>
+    <rect x="30" y="205" width="70" height="70"/><rect x="42" y="217" width="46" height="46" fill="#fff"/><rect x="54" y="229" width="22" height="22"/>
+    <path d="M125 55h18v18h-18zm27 0h18v27h-18zm27 0h18v18h-18zm-54 36h18v18h-18zm27 9h27v18h-27zm36-9h18v27h-18zM116 137h18v18h-18zm27 0h18v18h-18zm36 0h18v18h-18zm27 0h18v18h-18zM116 164h27v18h-27zm36 0h18v27h-18zm27 9h27v18h-27zm-63 45h18v18h-18zm27 0h18v18h-18zm27 0h18v18h-18zm27-9h18v27h-18zm27 0h18v18h-18zm-81 45h18v18h-18zm27-9h18v18h-18zm27 9h18v18h-18zm27-9h18v18h-18z"/>
+  </g>
+  <text x="160" y="315" fill="#52637c" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">SIMULASI - TIDAK UNTUK PEMBAYARAN</text>
+</svg>

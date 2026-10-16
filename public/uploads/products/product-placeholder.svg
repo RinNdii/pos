@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Gambar produk belum tersedia">
+  <rect width="640" height="420" fill="#f1f6fd"/>
+  <circle cx="320" cy="190" r="92" fill="#dbe8fa"/>
+  <path d="M267 178h106v88H267z" fill="#2f6fed" opacity=".9"/>
+  <path d="m267 178 53-31 53 31-53 31z" fill="#78a5f2"/>
+  <path d="M320 209v57" stroke="#dbe8fa" stroke-width="5"/>
+  <text x="320" y="335" fill="#52637c" font-family="Arial,sans-serif" font-size="24" text-anchor="middle">Gambar produk</text>
+</svg>
